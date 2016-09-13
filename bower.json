@@ -1,0 +1,8 @@
+{
+  "name": "learnes6withtest",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine-core": "jasmine#^2.5.0"
+  }
+}
