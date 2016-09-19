@@ -17,5 +17,5 @@ gulp.task('test', () => {
 		}
 	});
 
-	gulp.watch(['test/index.html', 'test/spec/**/*.js']).on('change', reload);
+	gulp.watch(['test/index.html', 'test/**/*.js']).on('change', reload);
 });

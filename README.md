@@ -17,6 +17,7 @@ To test:
 ## Summary	
 	
 - [X] Variables and Parameters
+- [X] Classes
 - [ ] Functional Programming
 - [ ] Built-in Objects
 - [ ] Asynchronous Development
