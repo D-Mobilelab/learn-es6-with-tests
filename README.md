@@ -16,10 +16,24 @@ To test:
 	
 ## Summary	
 	
-- [X] Variables and Parameters
-- [X] Classes
-- [ ] Functional Programming
-- [ ] Built-in Objects
-- [ ] Asynchronous Development
-- [ ] Objects
-- [ ] Modules
++ [X] Variables and Parameters
+  - let
+  - const
+  - destructuring
+  - default parameters
+  - rest parameters
+  - spread operator
+  - template literals
++ [X] Classes
+  - definition
+  - getter and setter
+  - inheritance
+  - override
++ [X] Functional Programming
+  - arrow functions
+  - iterators
+  - generators
++ [ ] Built-in Objects
++ [ ] Asynchronous Development
++ [ ] Objects
++ [ ] Modules
