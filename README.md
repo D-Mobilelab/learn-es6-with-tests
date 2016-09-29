@@ -38,7 +38,14 @@ Read files in **test/** folder or read Summary section below.
   - [arrow functions](../master/test/functional_programming/arrow_functions.js)
   - [iterators](../master/test/functional_programming/iterators.js)
   - [generators](../master/test/functional_programming/generators.js)
-+ [ ] Built-in Objects
++ [X] Built-in Objects
+  - [number](../master/test/builtin_objects/number.js)
+  - [math](../master/test/builtin_objects/math.js)
+  - [array](../master/test/builtin_objects/array.js)
+  - [set](../master/test/builtin_objects/set.js)
+  - [map](../master/test/builtin_objects/map.js)
+  - [weakset](../master/test/builtin_objects/weakset.js)
+  - [weakmap](../master/test/builtin_objects/weakmap.js)
 + [ ] Asynchronous Development
 + [ ] Objects
 + [ ] Modules
