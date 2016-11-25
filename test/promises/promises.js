@@ -88,5 +88,4 @@ describe('Promises', function() {
 		});
 	})
 
-
 });

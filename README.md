@@ -47,5 +47,10 @@ Read files in **test/** folder or read Summary section below.
   - [weakset](../master/test/builtin_objects/weakset.js)
   - [weakmap](../master/test/builtin_objects/weakmap.js)
 + [ ] Asynchronous Development
-+ [ ] Objects
+  - [promises](../master/test/promises/promises.js)
+  - [async generators](../master/test/promises/async-generators.js)
++ [X] Objects
+  - [object (is and assign)](../master/test/objects/object-is-assign.js)
+  - [shorthand on object](../master/test/objects/shorthand.js)
+  - [proxies](../master/test/objects/proxies.js)
 + [ ] Modules
