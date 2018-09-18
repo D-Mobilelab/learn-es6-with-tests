@@ -1,5 +1,7 @@
 # Learn ES6 with test
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/D-Mobilelab/learn-es6-with-tests.svg)](https://greenkeeper.io/)
+
 *We are studying ECMAScript 6 but, instead of writing notes on a notepad (that will be lost and forgotten), we decided to write understandable tests!*
 
 ## Clone, test... and learn! 
